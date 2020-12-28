@@ -1,0 +1,36 @@
+body {color: green;
+	background-color: rgb(255,20,147);
+	font-family: 'Permanent Marker', cursive;
+	letter-spacing: 5px;
+	font-size: 25px;}
+
+		.class{
+	border: 1px solid black;
+	width: 70%;
+	line-height: 1.5;
+  	letter-spacing: 0.05px;
+	text-align: center;
+	margin: 10px auto;
+	padding: 15px 15px;
+}
+
+div {background-color: #73C2FB}
+
+
+h2 {
+	font-family: Helvetica;
+	color: yellow
+	
+}
+
+
+.elementh{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+
+p {text-justify: justify;}
+
+
